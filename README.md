@@ -1,2 +1,2 @@
 # python-inovacao-civica
-Exercícios e anotacões feitas parte do curso em andamento na Escola de Dados (:
+Exercícios e anotacões feitas durante o curso, na Escola de Dados (:
